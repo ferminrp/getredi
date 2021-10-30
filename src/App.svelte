@@ -1,6 +1,17 @@
 <script>
 </script>
 
+<!-- Google Tag Manager (noscript) -->
+<noscript
+  ><iframe
+    src="https://www.googletagmanager.com/ns.html?id=GTM-PF3LV4W"
+    height="0"
+    width="0"
+    style="display:none;visibility:hidden"
+  /></noscript
+>
+<!-- End Google Tag Manager (noscript) -->
+
 <main>
   <div class="overlay">
     <h1>GetRedi</h1>
@@ -19,7 +30,7 @@
     background-position: 50% 50%;
     background-repeat: no-repeat;
     background-size: cover;
-	text-shadow: black 1px 0 10px;
+    text-shadow: black 1px 0 10px;
   }
 
   h1 {
